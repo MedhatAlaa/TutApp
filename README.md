@@ -2,8 +2,7 @@
 
 Tut App  Using Cubit As State management with Dark Mode
 
- # Features used in app: 
-- Rest full (Api)
+# featured used in app :
 - Clean Architecture Design Pattern
 - MVVM - Model - View - View Model Pattern
 - Dependency injection
@@ -14,6 +13,10 @@ Tut App  Using Cubit As State management with Dark Mode
 - State renderer 
 - Mappers
 - Data sources
+- Caching
+- Localization
+- Animated Json
+
  # Screenshots
 
 ### Splash Screen
